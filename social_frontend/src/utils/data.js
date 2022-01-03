@@ -12,7 +12,7 @@ export const categories = [
         image: 'https://i.pinimg.com/236x/03/48/b6/0348b65919fcbe1e4f559dc4feb0ee13.jpg',
     },
     {
-        name: 'websites',
+        name: 'web development',
         image: 'https://i.pinimg.com/750x/66/b1/29/66b1296d36598122e6a4c5452b5a7149.jpg',
     },
     {
