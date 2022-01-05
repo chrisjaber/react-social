@@ -17,7 +17,6 @@ const Pin = ({pin: {postedBy, image, _id, destination, save}}) => {
 
     const savePin = (id) => {
         if (!alreadySaved) {
-
             client
             .patch(id)
             .setIfMissing({save: []})
